@@ -1,0 +1,11 @@
+{
+  "name": "static-files-host",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "serve --cors --silent --port 8000 public"
+  },
+  "devDependencies": {
+    "serve": "^6.5.3"
+  }
+}
