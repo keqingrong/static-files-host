@@ -1,6 +1,6 @@
 {
   "name": "static-files-host",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "",
   "scripts": {
     "serve": "serve --cors --silent --port 8000 public"
