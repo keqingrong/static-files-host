@@ -1,7 +1,7 @@
 {
   "name": "static-files-host",
   "version": "0.0.1",
-  "description": "",
+  "description": "Static files host for private use",
   "scripts": {
     "serve": "serve --cors --silent --port 8000 public"
   },
