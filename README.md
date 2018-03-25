@@ -1,5 +1,7 @@
 # static-files-host
 
+> Static files host for private use
+
 ## files
 
 - apis.google.com/js/api.js

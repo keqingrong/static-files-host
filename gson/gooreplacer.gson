@@ -1,13 +1,13 @@
 {
   "createBy": "http://liujiacai.net/gooreplacer/",
   "version": "3.9",
-  "createAt": "Sun Mar 25 2018 11:05:30 GMT+0800 (中国标准时间)",
+  "createAt": "Sun Mar 25 2018 11:09:33 GMT+0800 (中国标准时间)",
   "redirect-rules": [
     {
       "src": "www.google.com/",
       "kind": "wildcard",
       "dst": "www.google.cn/",
-      "enable": true
+      "enable": false
     },
     {
       "src": "ajax.googleapis.com",
@@ -31,6 +31,12 @@
       "src": "developers.google.com",
       "kind": "wildcard",
       "dst": "developers.google.cn",
+      "enable": true
+    },
+    {
+      "src": "developer.android.com/",
+      "kind": "wildcard",
+      "dst": "developer.android.google.cn/",
       "enable": true
     },
     {
@@ -64,21 +70,21 @@
       "enable": true
     },
     {
+      "src": "//www.google.com/recaptcha/api.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/www.google.com/recaptcha/api.js",
+      "enable": true
+    },
+    {
       "src": "scholar.google.com/",
       "kind": "wildcard",
       "dst": "scholar.google.cn/",
       "enable": true
     },
     {
-      "src": "clients1.google.com",
+      "src": "clients1.google.com/",
       "kind": "wildcard",
-      "dst": "clients1.google.cn",
-      "enable": true
-    },
-    {
-      "src": "developer.android.com",
-      "kind": "wildcard",
-      "dst": "developer.android.google.cn",
+      "dst": "clients1.google.cn/",
       "enable": true
     }
   ],
