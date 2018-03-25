@@ -1,7 +1,7 @@
 {
   "createBy": "http://liujiacai.net/gooreplacer/",
   "version": "3.9",
-  "createAt": "Sun Mar 25 2018 10:54:07 GMT+0800 (中国标准时间)",
+  "createAt": "Sun Mar 25 2018 11:05:30 GMT+0800 (中国标准时间)",
   "redirect-rules": [
     {
       "src": "www.google.com/",
@@ -73,6 +73,12 @@
       "src": "clients1.google.com",
       "kind": "wildcard",
       "dst": "clients1.google.cn",
+      "enable": true
+    },
+    {
+      "src": "developer.android.com",
+      "kind": "wildcard",
+      "dst": "developer.android.google.cn",
       "enable": true
     }
   ],

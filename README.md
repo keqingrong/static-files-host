@@ -14,6 +14,7 @@
 
 - `www.google.com` => `www.google.cn`
 - `developers.google.com` => `developers.google.cn`
+- `developer.android.com` => `developer.android.google.cn`
 - `maps.google.com` => `ditu.google.cn`
 - `scholar.google.com` => `scholar.google.cn`
 - `translate.google.com` => `translate.google.cn`
