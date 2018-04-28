@@ -9,6 +9,7 @@
 - apis.google.com/js/plusone.js
 - www.google.com/recaptcha/api.js
 - platform.twitter.com/widgets.js
+- labs.mysql.com/common/js/site-20180426.min.js
 
 `//apis.google.com/plusone.js` => `//unpkg.com/static-files-host/public/apis.google.com/js/plusone.js`
 
