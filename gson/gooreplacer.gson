@@ -76,6 +76,24 @@
       "enable": true
     },
     {
+      "src": "//platform.twitter.com/widgets.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/platform.twitter.com/widgets.js",
+      "enable": true
+    },
+    {
+      "src": "//platform.twitter.com/oct.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/platform.twitter.com/oct.js",
+      "enable": true
+    },
+    {
+      "src": "//connect.facebook.net/en_US/sdk.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/connect.facebook.net/en_US/sdk.js",
+      "enable": true
+    },
+    {
       "src": "scholar.google.com/",
       "kind": "wildcard",
       "dst": "scholar.google.cn/",
