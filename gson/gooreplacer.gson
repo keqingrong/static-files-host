@@ -72,7 +72,7 @@
     {
       "src": "//www.google.com/recaptcha/api.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/www.google.com/recaptcha/api.js",
+      "dst": "//recaptcha.net/recaptcha/api.js",
       "enable": true
     },
     {
