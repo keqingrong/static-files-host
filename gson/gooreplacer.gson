@@ -76,6 +76,24 @@
       "enable": true
     },
     {
+      "src": "//www.google.com/js/maia.js",
+      "kind": "wildcard",
+      "dst": "////unpkg.com/static-files-host/public/www.google.com/js/maia.js",
+      "enable": true
+    },
+    {
+      "src": "//www.google.com/css/maia.css",
+      "kind": "wildcard",
+      "dst": "////unpkg.com/static-files-host/public/www.google.com/css/maia.css",
+      "enable": true
+    },
+    {
+      "src": "//www.google.com/js/google.js",
+      "kind": "wildcard",
+      "dst": "////unpkg.com/static-files-host/public/www.google.com/js/google.js",
+      "enable": true
+    },
+    {
       "src": "//platform.twitter.com/widgets.js",
       "kind": "wildcard",
       "dst": "//unpkg.com/static-files-host/public/platform.twitter.com/widgets.js",
