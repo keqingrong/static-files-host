@@ -78,19 +78,19 @@
     {
       "src": "//www.google.com/js/maia.js",
       "kind": "wildcard",
-      "dst": "////unpkg.com/static-files-host/public/www.google.com/js/maia.js",
+      "dst": "//unpkg.com/static-files-host/public/www.google.com/js/maia.js",
       "enable": true
     },
     {
       "src": "//www.google.com/css/maia.css",
       "kind": "wildcard",
-      "dst": "////unpkg.com/static-files-host/public/www.google.com/css/maia.css",
+      "dst": "//unpkg.com/static-files-host/public/www.google.com/css/maia.css",
       "enable": true
     },
     {
       "src": "//www.google.com/js/google.js",
       "kind": "wildcard",
-      "dst": "////unpkg.com/static-files-host/public/www.google.com/js/google.js",
+      "dst": "//unpkg.com/static-files-host/public/www.google.com/js/google.js",
       "enable": true
     },
     {
