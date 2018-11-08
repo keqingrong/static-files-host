@@ -118,6 +118,12 @@
       "enable": true
     },
     {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.8TyKRiZUl3l9jhF-HNT6xQ.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.8TyKRiZUl3l9jhF-HNT6xQ.js",
+      "enable": true
+    },
+    {
       "src": "//connect.facebook.net/en_US/sdk.js",
       "kind": "wildcard",
       "dst": "//unpkg.com/static-files-host/public/connect.facebook.net/en_US/sdk.js",
