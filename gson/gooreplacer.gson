@@ -106,6 +106,18 @@
       "enable": true
     },
     {
+      "src": "//glyph.medium.com/css/e/sr/latin/e/ssr/latin/e/ssb/latin/m2.css",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/glyph.medium.com/css/e/sr/latin/e/ssr/latin/e/ssb/latin/m2.css",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/css/main-branding-base.ZwtWllGE_EXJFz37lx74sw.css",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/css/main-branding-base.ZwtWllGE_EXJFz37lx74sw.css",
+      "enable": true
+    },
+    {
       "src": "//connect.facebook.net/en_US/sdk.js",
       "kind": "wildcard",
       "dst": "//unpkg.com/static-files-host/public/connect.facebook.net/en_US/sdk.js",
