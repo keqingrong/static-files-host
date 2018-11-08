@@ -124,6 +124,66 @@
       "enable": true
     },
     {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.vvZo4pUqlaswCsEF1NN3gw.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.vvZo4pUqlaswCsEF1NN3gw.js",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-hightower.bundle.JjJVvKfqS-r8RMmJRccSgg.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-hightower.bundle.JjJVvKfqS-r8RMmJRccSgg.js",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.2zL6r9ttZKw1KTWeqBre_g.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.2zL6r9ttZKw1KTWeqBre_g.js",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-misc-screens.bundle.JznErnsIzHg2rbfCPeljlA.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-misc-screens.bundle.JznErnsIzHg2rbfCPeljlA.js",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-notes.bundle.TJbd3Cj45GSWIpqaMhj_sA.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-notes.bundle.TJbd3Cj45GSWIpqaMhj_sA.js",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-payments.bundle.NFVZ2YqjNxlHIXUfe2LgFw.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-payments.bundle.NFVZ2YqjNxlHIXUfe2LgFw.js",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-posters.bundle.8B0dmiIaqbUppqZjGq7eXg.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-posters.bundle.8B0dmiIaqbUppqZjGq7eXg.js",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-power-readers.bundle.rRPR8acZ5PCJ-dlu1O5ezA.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-power-readers.bundle.rRPR8acZ5PCJ-dlu1O5ezA.js",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-pubs.bundle.F58ofVe7tAhRaJdLF4sgkQ.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-pubs.bundle.F58ofVe7tAhRaJdLF4sgkQ.js",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-stats.bundle.4ph3IDtHU8VNtpTzfAu9OQ.js",
+      "kind": "wildcard",
+      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-stats.bundle.4ph3IDtHU8VNtpTzfAu9OQ.js",
+      "enable": true
+    },
+    {
       "src": "//connect.facebook.net/en_US/sdk.js",
       "kind": "wildcard",
       "dst": "//unpkg.com/static-files-host/public/connect.facebook.net/en_US/sdk.js",
