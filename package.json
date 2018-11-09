@@ -1,10 +1,11 @@
 {
   "name": "static-files-host",
   "version": "0.0.13",
-  "description": "Static files host for private use",
+  "description": "Static files host for gooreplacer",
   "scripts": {
     "serve": "serve --cors --silent --port 8000 public"
   },
+  "repository": "keqingrong/static-files-host",
   "devDependencies": {
     "serve": "^6.5.3"
   }

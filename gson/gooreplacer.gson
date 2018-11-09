@@ -54,19 +54,19 @@
     {
       "src": "//apis.google.com/js/plusone.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/apis.google.com/js/plusone.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/plusone.js",
       "enable": true
     },
     {
       "src": "//apis.google.com/js/api.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/apis.google.com/js/api.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/api.js",
       "enable": true
     },
     {
       "src": "//apis.google.com/js/platform.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/apis.google.com/js/platform.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/platform.js",
       "enable": true
     },
     {
@@ -78,133 +78,133 @@
     {
       "src": "//www.google.com/js/maia.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/www.google.com/js/maia.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/www.google.com/js/maia.js",
       "enable": true
     },
     {
       "src": "//www.google.com/css/maia.css",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/www.google.com/css/maia.css",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/www.google.com/css/maia.css",
       "enable": true
     },
     {
       "src": "//www.google.com/js/google.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/www.google.com/js/google.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/www.google.com/js/google.js",
       "enable": true
     },
     {
       "src": "//platform.twitter.com/widgets.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/platform.twitter.com/widgets.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/platform.twitter.com/widgets.js",
       "enable": true
     },
     {
       "src": "//platform.twitter.com/oct.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/platform.twitter.com/oct.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/platform.twitter.com/oct.js",
       "enable": true
     },
     {
       "src": "//glyph.medium.com/css/e/sr/latin/e/ssr/latin/e/ssb/latin/m2.css",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/glyph.medium.com/css/e/sr/latin/e/ssr/latin/e/ssb/latin/m2.css",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/glyph.medium.com/css/e/sr/latin/e/ssr/latin/e/ssb/latin/m2.css",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/css/main-branding-base.ZwtWllGE_EXJFz37lx74sw.css",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/css/main-branding-base.ZwtWllGE_EXJFz37lx74sw.css",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/css/main-branding-base.ZwtWllGE_EXJFz37lx74sw.css",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.8TyKRiZUl3l9jhF-HNT6xQ.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.8TyKRiZUl3l9jhF-HNT6xQ.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.8TyKRiZUl3l9jhF-HNT6xQ.js",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.vvZo4pUqlaswCsEF1NN3gw.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.vvZo4pUqlaswCsEF1NN3gw.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.vvZo4pUqlaswCsEF1NN3gw.js",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-hightower.bundle.JjJVvKfqS-r8RMmJRccSgg.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-hightower.bundle.JjJVvKfqS-r8RMmJRccSgg.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-hightower.bundle.JjJVvKfqS-r8RMmJRccSgg.js",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.2zL6r9ttZKw1KTWeqBre_g.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.2zL6r9ttZKw1KTWeqBre_g.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.2zL6r9ttZKw1KTWeqBre_g.js",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-misc-screens.bundle.JznErnsIzHg2rbfCPeljlA.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-misc-screens.bundle.JznErnsIzHg2rbfCPeljlA.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-misc-screens.bundle.JznErnsIzHg2rbfCPeljlA.js",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-notes.bundle.TJbd3Cj45GSWIpqaMhj_sA.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-notes.bundle.TJbd3Cj45GSWIpqaMhj_sA.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-notes.bundle.TJbd3Cj45GSWIpqaMhj_sA.js",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-payments.bundle.NFVZ2YqjNxlHIXUfe2LgFw.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-payments.bundle.NFVZ2YqjNxlHIXUfe2LgFw.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-payments.bundle.NFVZ2YqjNxlHIXUfe2LgFw.js",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-posters.bundle.8B0dmiIaqbUppqZjGq7eXg.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-posters.bundle.8B0dmiIaqbUppqZjGq7eXg.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-posters.bundle.8B0dmiIaqbUppqZjGq7eXg.js",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-power-readers.bundle.rRPR8acZ5PCJ-dlu1O5ezA.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-power-readers.bundle.rRPR8acZ5PCJ-dlu1O5ezA.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-power-readers.bundle.rRPR8acZ5PCJ-dlu1O5ezA.js",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-pubs.bundle.F58ofVe7tAhRaJdLF4sgkQ.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-pubs.bundle.F58ofVe7tAhRaJdLF4sgkQ.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-pubs.bundle.F58ofVe7tAhRaJdLF4sgkQ.js",
       "enable": true
     },
     {
       "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-stats.bundle.4ph3IDtHU8VNtpTzfAu9OQ.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-stats.bundle.4ph3IDtHU8VNtpTzfAu9OQ.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-stats.bundle.4ph3IDtHU8VNtpTzfAu9OQ.js",
       "enable": true
     },
     {
       "src": "//connect.facebook.net/en_US/sdk.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/connect.facebook.net/en_US/sdk.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/connect.facebook.net/en_US/sdk.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/dojo.xd.js",
       "kind": "wildcard",
-      "dst": "//unpkg.com/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/dojo.xd.js",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/dojo.xd.js",
       "enable": true
     },
     {

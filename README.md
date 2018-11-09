@@ -1,13 +1,13 @@
 # static-files-host
 
-> Static files host for private use
+> Static files host for [gooreplacer](https://github.com/jiacai2050/gooreplacer)
 
 ## files
 
+- `www.google.com/recaptcha/api.js` => `recaptcha.net/recaptcha/api.js`
 - `apis.google.com/js/api.js`
 - `apis.google.com/js/platform.js`
-- `apis.google.com/js/plusone.js` => `unpkg.com/static-files-host/public/apis.google.com/js/plusone.js`
-- `www.google.com/recaptcha/api.js` => `recaptcha.net/recaptcha/api.js`
+- `apis.google.com/js/plusone.js` => `cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/plusone.js`
 - `platform.twitter.com/widgets.js`
 - `labs.mysql.com/common/js/site-20180426.min.js`
 
