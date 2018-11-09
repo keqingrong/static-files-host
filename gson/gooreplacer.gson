@@ -184,6 +184,18 @@
       "enable": true
     },
     {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.95x4IVA7WZ7VsicV3uL_2A.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.95x4IVA7WZ7VsicV3uL_2A.js",
+      "enable": true
+    },
+    {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.FDlTgt4yocKie7iFVblIJA.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.FDlTgt4yocKie7iFVblIJA.js",
+      "enable": true
+    },
+    {
       "src": "//connect.facebook.net/en_US/sdk.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/connect.facebook.net/en_US/sdk.js",
