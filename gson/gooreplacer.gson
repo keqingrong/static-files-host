@@ -196,6 +196,12 @@
       "enable": true
     },
     {
+      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.G3QEewsYr9_XBSS_CFZnpg.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.G3QEewsYr9_XBSS_CFZnpg.js",
+      "enable": true
+    },
+    {
       "src": "//connect.facebook.net/en_US/sdk.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/connect.facebook.net/en_US/sdk.js",
