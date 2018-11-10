@@ -112,9 +112,9 @@
       "enable": true
     },
     {
-      "src": "//cdn-static-1.medium.com/_/fp/css/main-branding-base.ZwtWllGE_EXJFz37lx74sw.css",
+      "src": "//cdn-static-1.medium.com/_/fp/css/main-branding-base.5OkxulRyEUohYJU7sV_-aw.css",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/css/main-branding-base.ZwtWllGE_EXJFz37lx74sw.css",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/css/main-branding-base.5OkxulRyEUohYJU7sV_-aw.css",
       "enable": true
     },
     {
