@@ -7,6 +7,6 @@
   },
   "repository": "keqingrong/static-files-host",
   "devDependencies": {
-    "serve": "^6.5.3"
+    "serve": ">=7.0.0"
   }
 }
