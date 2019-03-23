@@ -10,18 +10,6 @@
       "enable": false
     },
     {
-      "src": "ajax.googleapis.com",
-      "kind": "wildcard",
-      "dst": "ajax.proxy.ustclug.org",
-      "enable": true
-    },
-    {
-      "src": "ajax.googleapis.com",
-      "kind": "wildcard",
-      "dst": "ajax.proxy.ustclug.org",
-      "enable": true
-    },
-    {
       "src": "translate.google.com",
       "kind": "wildcard",
       "dst": "translate.google.cn",
@@ -49,6 +37,12 @@
       "src": "maps.google.com",
       "kind": "wildcard",
       "dst": "ditu.google.cn",
+      "enable": true
+    },
+    {
+      "src": "clients1.google.com/",
+      "kind": "wildcard",
+      "dst": "clients1.google.cn/",
       "enable": true
     },
     {
@@ -106,102 +100,6 @@
       "enable": true
     },
     {
-      "src": "//glyph.medium.com/css/e/sr/latin/e/ssr/latin/e/ssb/latin/m2.css",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/glyph.medium.com/css/e/sr/latin/e/ssr/latin/e/ssb/latin/m2.css",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/css/main-branding-base.5OkxulRyEUohYJU7sV_-aw.css",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/css/main-branding-base.5OkxulRyEUohYJU7sV_-aw.css",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.8TyKRiZUl3l9jhF-HNT6xQ.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.8TyKRiZUl3l9jhF-HNT6xQ.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.vvZo4pUqlaswCsEF1NN3gw.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.vvZo4pUqlaswCsEF1NN3gw.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-hightower.bundle.JjJVvKfqS-r8RMmJRccSgg.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-hightower.bundle.JjJVvKfqS-r8RMmJRccSgg.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.2zL6r9ttZKw1KTWeqBre_g.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.2zL6r9ttZKw1KTWeqBre_g.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-misc-screens.bundle.JznErnsIzHg2rbfCPeljlA.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-misc-screens.bundle.JznErnsIzHg2rbfCPeljlA.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-notes.bundle.TJbd3Cj45GSWIpqaMhj_sA.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-notes.bundle.TJbd3Cj45GSWIpqaMhj_sA.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-payments.bundle.NFVZ2YqjNxlHIXUfe2LgFw.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-payments.bundle.NFVZ2YqjNxlHIXUfe2LgFw.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-posters.bundle.8B0dmiIaqbUppqZjGq7eXg.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-posters.bundle.8B0dmiIaqbUppqZjGq7eXg.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-power-readers.bundle.rRPR8acZ5PCJ-dlu1O5ezA.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-power-readers.bundle.rRPR8acZ5PCJ-dlu1O5ezA.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-pubs.bundle.F58ofVe7tAhRaJdLF4sgkQ.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-pubs.bundle.F58ofVe7tAhRaJdLF4sgkQ.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-stats.bundle.4ph3IDtHU8VNtpTzfAu9OQ.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-stats.bundle.4ph3IDtHU8VNtpTzfAu9OQ.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.95x4IVA7WZ7VsicV3uL_2A.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-base.bundle.95x4IVA7WZ7VsicV3uL_2A.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.FDlTgt4yocKie7iFVblIJA.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-common-async.bundle.FDlTgt4yocKie7iFVblIJA.js",
-      "enable": true
-    },
-    {
-      "src": "//cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.G3QEewsYr9_XBSS_CFZnpg.js",
-      "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/cdn-static-1.medium.com/_/fp/gen-js/main-home-screens.bundle.G3QEewsYr9_XBSS_CFZnpg.js",
-      "enable": true
-    },
-    {
       "src": "//connect.facebook.net/en_US/sdk.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/connect.facebook.net/en_US/sdk.js",
@@ -214,27 +112,21 @@
       "enable": true
     },
     {
+      "src": "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/jquery@1.9.1/jquery.min.js",
+      "enable": true
+    },
+    {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/dojo.xd.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/dojo.xd.js",
-      "enable": true
-    },
-    {
-      "src": "scholar.google.com/",
-      "kind": "wildcard",
-      "dst": "scholar.google.cn/",
-      "enable": true
-    },
-    {
-      "src": "clients1.google.com/",
-      "kind": "wildcard",
-      "dst": "clients1.google.cn/",
       "enable": true
     }
   ],
