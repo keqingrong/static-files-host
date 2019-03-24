@@ -112,9 +112,21 @@
       "enable": true
     },
     {
+      "src": "//connect.facebook.net/en_US/fbevents.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/connect.facebook.net/en_US/fbevents.js",
+      "enable": true
+    },
+    {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
       "enable": true
     },
     {
@@ -133,6 +145,12 @@
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js",
       "enable": true
     },
     {
