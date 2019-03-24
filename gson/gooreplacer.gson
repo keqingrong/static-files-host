@@ -106,6 +106,12 @@
       "enable": true
     },
     {
+      "src": "//connect.facebook.net/zh_CN/sdk.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/connect.facebook.net/zh_CN/sdk.js",
+      "enable": true
+    },
+    {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
