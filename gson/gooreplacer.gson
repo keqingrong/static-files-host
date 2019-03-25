@@ -120,43 +120,43 @@
     {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/1.4.4/jquery.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/1.7.2/jquery.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/jquery@1.9.1/jquery.min.js",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/jquery@3.1.1/dist/jquery.min.js",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js",
       "enable": true
     },
     {
