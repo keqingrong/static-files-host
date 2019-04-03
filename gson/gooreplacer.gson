@@ -176,6 +176,12 @@
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/dojo.xd.js",
       "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/dojo/1.4/dojox/highlight/resources/highlight.css",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4/dojox/highlight/resources/highlight.css",
+      "enable": true
     }
   ],
   "cancel-rules": [],
