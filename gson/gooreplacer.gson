@@ -182,6 +182,30 @@
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4/dojox/highlight/resources/highlight.css",
       "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/dojo/1.4.4/dojox/highlight.xd.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4.4/dojox/highlight.xd.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/dojo/1.4.4/dojox/highlight/languages/javascript.xd.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4.4/dojox/highlight/languages/javascript.xd.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/dojo/1.4.4/dojox/highlight/languages/html.xd.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4.4/dojox/highlight/languages/html.xd.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/dojo/1.4.4/dojox/highlight/languages/css.xd.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4.4/dojox/highlight/languages/css.xd.js",
+      "enable": true
     }
   ],
   "cancel-rules": [],
