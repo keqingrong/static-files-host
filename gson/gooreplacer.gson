@@ -166,9 +166,27 @@
       "enable": true
     },
     {
+      "src": "//ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js",
+      "enable": true
+    },
+    {
       "src": "//ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js",
       "kind": "wildcard",
       "dst": "//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js",
+      "kind": "wildcard",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css",
+      "kind": "wildcard",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jqueryui/1.8.16/themes/base/jquery-ui.css",
       "enable": true
     },
     {
