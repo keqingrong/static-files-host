@@ -162,7 +162,13 @@
     {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js",
       "kind": "wildcard",
-      "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js",
+      "kind": "wildcard",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js",
       "enable": true
     },
     {
