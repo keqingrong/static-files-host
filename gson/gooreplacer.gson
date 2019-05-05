@@ -72,19 +72,19 @@
     {
       "src": "//www.google.com/js/maia.js",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/www.google.com/js/maia.js",
+      "dst": "//www.google.cn/js/maia.js",
       "enable": true
     },
     {
       "src": "//www.google.com/css/maia.css",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/www.google.com/css/maia.css",
+      "dst": "//www.google.cn/css/maia.css",
       "enable": true
     },
     {
       "src": "//www.google.com/js/google.js",
       "kind": "wildcard",
-      "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/www.google.com/js/google.js",
+      "dst": "//www.google.cn/js/google.js",
       "enable": true
     },
     {
