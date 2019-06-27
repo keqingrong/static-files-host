@@ -4,57 +4,63 @@
   "createAt": "Sun Mar 25 2018 11:09:33 GMT+0800 (中国标准时间)",
   "redirect-rules": [
     {
-      "src": "www.google.com",
+      "src": "//www.google.com",
       "kind": "wildcard",
-      "dst": "www.google.cn",
+      "dst": "//www.google.cn",
       "enable": false
     },
     {
-      "src": "translate.google.com",
+      "src": "//translate.google.com",
       "kind": "wildcard",
-      "dst": "translate.google.cn",
+      "dst": "//translate.google.cn",
       "enable": true
     },
     {
-      "src": "developers.google.com",
+      "src": "//developers.google.com",
       "kind": "wildcard",
-      "dst": "developers.google.cn",
+      "dst": "//developers.google.cn",
       "enable": true
     },
     {
-      "src": "developer.android.com",
+      "src": "//developer.android.com",
       "kind": "wildcard",
-      "dst": "developer.android.google.cn",
+      "dst": "//developer.android.google.cn",
       "enable": true
     },
     {
-      "src": "golang.org",
+      "src": "//golang.org",
       "kind": "wildcard",
-      "dst": "golang.google.cn",
+      "dst": "//golang.google.cn",
       "enable": true
     },
     {
-      "src": "tensorflow.org",
+      "src": "//tensorflow.org",
       "kind": "wildcard",
-      "dst": "tensorflow.google.cn",
+      "dst": "//tensorflow.google.cn",
       "enable": true
     },
     {
-      "src": "www.gstatic.com",
+      "src": "//www.tensorflow.org",
       "kind": "wildcard",
-      "dst": "www.gstatic.cn",
+      "dst": "//tensorflow.google.cn",
       "enable": true
     },
     {
-      "src": "maps.google.com",
+      "src": "//www.gstatic.com",
       "kind": "wildcard",
-      "dst": "ditu.google.cn",
+      "dst": "//www.gstatic.cn",
       "enable": true
     },
     {
-      "src": "clients1.google.com",
+      "src": "//maps.google.com",
       "kind": "wildcard",
-      "dst": "clients1.google.cn",
+      "dst": "//ditu.google.cn",
+      "enable": true
+    },
+    {
+      "src": "//clients1.google.com",
+      "kind": "wildcard",
+      "dst": "//clients1.google.cn",
       "enable": true
     },
     {
