@@ -19,6 +19,7 @@
 - `developers.google.com` => `developers.google.cn`
 - `developer.android.com` => `developer.android.google.cn`
 - `golang.org` => `golang.google.cn`
+- `tensorflow.org` => `tensorflow.google.cn`
 - `maps.google.com` => `ditu.google.cn`
 - `translate.google.com` => `translate.google.cn`
 - `www.gstatic.com` => `www.gstatic.cn`
