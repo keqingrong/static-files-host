@@ -28,6 +28,12 @@
       "enable": true
     },
     {
+      "src": "//source.android.com",
+      "kind": "wildcard",
+      "dst": "//source.android.google.cn",
+      "enable": true
+    },
+    {
       "src": "//golang.org",
       "kind": "wildcard",
       "dst": "//golang.google.cn",
