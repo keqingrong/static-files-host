@@ -2,28 +2,37 @@
 
 > Static files host for [gooreplacer](https://github.com/jiacai2050/gooreplacer)
 
-## files
+## Redirect rules
 
-- `www.google.com/js/google.js` => `www.google.cn/js/google.js`
-- `www.google.com/recaptcha/api.js` => `recaptcha.net/recaptcha/api.js`
-- `apis.google.com/js/api.js` => `cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/api.js`
-- `apis.google.com/js/platform.js` => `cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/platform.js`
-- `apis.google.com/js/plusone.js` => `cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/plusone.js`
-- `platform.twitter.com/oct.js` => `cdn.jsdelivr.net/npm/static-files-host/public/platform.twitter.com/oct.js`
-- `platform.twitter.com/widgets.js` => `cdn.jsdelivr.net/npm/static-files-host/public/platform.twitter.com/widgets.js`
-- `labs.mysql.com/common/js/site-20180426.min.js` => `cdn.jsdelivr.net/npm/static-files-host/public/labs.mysql.com/common/js/site-20180426.min.js`
+### Domains
 
-## domains
+| Source | Destination | Enabled |
+| ------ | ----------- | ------- |
+| www.google.com | www.google.cn | `false` |
+| developers.google.com | developers.google.cn | `true` |
+| developer.android.com | developer.android.google.cn | `true` |
+| source.android.com | source.android.google.cn | `true` |
+| golang.org | golang.google.cn | `true` |
+| tensorflow.org | tensorflow.google.cn | `true` |
+| maps.google.com | ditu.google.cn | `true` |
+| translate.google.com | translate.google.cn | `true` |
+| www.gstatic.com | www.gstatic.cn | `true` |
+| clients1.google.com | clients1.google.cn | `true` |
+| ajax.googleapis.com | ajax.proxy.ustclug.org | `false` |
 
-- `www.google.com` => `www.google.cn`
-- `developers.google.com` => `developers.google.cn`
-- `developer.android.com` => `developer.android.google.cn`
-- `source.android.com` => `source.android.google.cn`
-- `golang.org` => `golang.google.cn`
-- `tensorflow.org` => `tensorflow.google.cn`
-- `maps.google.com` => `ditu.google.cn`
-- `translate.google.com` => `translate.google.cn`
-- `www.gstatic.com` => `www.gstatic.cn`
-- `clients1.google.com` => `clients1.google.cn`
-- <del>`scholar.google.com` => `scholar.google.cn`</del>
-- <del>`ajax.googleapis.com` => `ajax.proxy.ustclug.org`</del>
+### Files
+
+| Source | Destination | Enabled |
+| ------ | ----------- | ------- |
+| www.google.com/js/google.js | www.google.cn/js/google.js | `true` |
+| www.google.com/recaptcha/api.js | recaptcha.net/recaptcha/api.js | `true` |
+| apis.google.com/js/api.js | cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/api.js | `true` |
+| apis.google.com/js/platform.js | cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/platform.js | `true` |
+| apis.google.com/js/plusone.js | cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/plusone.js | `true` |
+| platform.twitter.com/oct.js | cdn.jsdelivr.net/npm/static-files-host/public/platform.twitter.com/oct.js | `true` |
+| platform.twitter.com/widgets.js | cdn.jsdelivr.net/npm/static-files-host/public/platform.twitter.com/widgets.js | `true` |
+| labs.mysql.com/common/js/site-20180426.min.js | cdn.jsdelivr.net/npm/static-files-host/public/labs.mysql.com/common/js/site-20180426.min.js | `true` |
+
+## License
+
+MIT
