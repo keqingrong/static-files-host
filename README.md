@@ -9,16 +9,19 @@
 | Source | Destination | Enabled |
 | ------ | ----------- | ------- |
 | www.google.com | www.google.cn | `false` |
+| maps.google.com | ditu.google.cn | `true` |
+| translate.google.com | translate.google.cn | `true` |
+| clients1.google.com | clients1.google.cn | `true` |
 | developers.google.com | developers.google.cn | `true` |
 | developer.android.com | developer.android.google.cn | `true` |
 | source.android.com | source.android.google.cn | `true` |
 | golang.org | golang.google.cn | `true` |
 | tensorflow.org | tensorflow.google.cn | `true` |
-| maps.google.com | ditu.google.cn | `true` |
-| translate.google.com | translate.google.cn | `true` |
 | www.gstatic.com | www.gstatic.cn | `true` |
-| clients1.google.com | clients1.google.cn | `true` |
+| fonts.gstatic.com | fonts-gstatic.lug.ustc.edu.cn | `false` |
 | ajax.googleapis.com | ajax.proxy.ustclug.org | `false` |
+| fonts.googleapis.com | fonts.lug.ustc.edu.cn | `false` |
+| themes.googleusercontent.com | google-themes.lug.ustc.edu.cn | `false` |
 
 ### Files
 
