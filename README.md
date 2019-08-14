@@ -26,6 +26,7 @@
 | ------ | ----------- | ------- |
 | www.google.com/js/google.js | www.google.cn/js/google.js | `true` |
 | www.google.com/recaptcha/api.js | recaptcha.net/recaptcha/api.js | `true` |
+| ajax.googleapis.com/ajax/libs/webfont/1/webfont.js | cdn.jsdelivr.net/npm/webfontloader@1/webfontloader.js | `true` |
 | apis.google.com/js/api.js | cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/api.js | `true` |
 | apis.google.com/js/platform.js | cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/platform.js | `true` |
 | apis.google.com/js/plusone.js | cdn.jsdelivr.net/npm/static-files-host/public/apis.google.com/js/plusone.js | `true` |

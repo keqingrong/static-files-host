@@ -250,6 +250,12 @@
       "enable": true
     },
     {
+      "src": "//ajax.googleapis.com/ajax/libs/webfont/1/webfont.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/webfontloader@1/webfontloader.js",
+      "enable": true
+    },
+    {
       "src": "//ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/dojo.xd.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/static-files-host/public/ajax.googleapis.com/ajax/libs/dojo/1.4/dojo/dojo.xd.js",
