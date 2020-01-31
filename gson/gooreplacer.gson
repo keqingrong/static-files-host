@@ -142,6 +142,36 @@
       "enable": true
     },
     {
+      "src": "//fb.me/react-0.13.3.js",
+      "kind": "wildcard",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/react/0.13.3/react.js",
+      "enable": true
+    },
+    {
+      "src": "//fb.me/react-0.13.3.min.js",
+      "kind": "wildcard",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/react/0.13.3/react.min.js",
+      "enable": true
+    },
+    {
+      "src": "//fb.me/react-with-addons-0.13.3.js",
+      "kind": "wildcard",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/react/0.13.3/react-with-addons.js",
+      "enable": true
+    },
+    {
+      "src": "//fb.me/react-with-addons-0.13.3.min.js",
+      "kind": "wildcard",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/react/0.13.3/react-with-addons.min.js",
+      "enable": true
+    },
+    {
+      "src": "//fb.me/JSXTransformer-0.13.3.js",
+      "kind": "wildcard",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/react/0.13.3/JSXTransformer.js",
+      "enable": true
+    },
+    {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",
       "kind": "wildcard",
       "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/1.4.4/jquery.min.js",
