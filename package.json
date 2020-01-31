@@ -1,6 +1,6 @@
 {
   "name": "static-files-host",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Static files host for gooreplacer",
   "scripts": {
     "serve": "serve --cors --silent --port 8000 public"
