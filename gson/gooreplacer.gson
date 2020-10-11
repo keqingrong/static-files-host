@@ -208,6 +208,12 @@
       "enable": true
     },
     {
+      "src": "//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js",
+      "kind": "wildcard",
+      "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js",
+      "enable": true
+    },
+    {
       "src": "//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js",
       "kind": "wildcard",
       "dst": "//cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js",
