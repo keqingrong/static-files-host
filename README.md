@@ -1,5 +1,7 @@
 # static-files-host
 
+[![npm version](https://img.shields.io/npm/v/static-files-host.svg)](https://www.npmjs.com/package/static-files-host)
+
 > Static files host for [gooreplacer](https://github.com/jiacai2050/gooreplacer)
 
 ## Redirect rules
@@ -9,7 +11,7 @@
 | Source | Destination | Enabled |
 | ------ | ----------- | ------- |
 | www.google.com | www.google.cn | `false` |
-| maps.google.com | ditu.google.cn | `true` |
+| maps.google.com | ditu.google.cn | `false` |
 | translate.google.com | translate.google.cn | `true` |
 | clients1.google.com | clients1.google.cn | `true` |
 | developers.google.com | developers.google.cn | `true` |

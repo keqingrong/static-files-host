@@ -61,7 +61,7 @@
       "src": "//maps.google.com",
       "kind": "wildcard",
       "dst": "//ditu.google.cn",
-      "enable": true
+      "enable": false
     },
     {
       "src": "//clients1.google.com",
