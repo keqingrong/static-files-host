@@ -310,6 +310,12 @@
       "enable": true
     },
     {
+      "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/angular@1.7.9/angular.min.js",
+      "enable": true
+    },
+    {
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular.min.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/angular@1.8.0/angular.min.js",
@@ -319,6 +325,12 @@
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.1/angular.min.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/angular@1.8.1/angular.min.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular-resource.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/angular-resource@1.7.9/angular-resource.min.js",
       "enable": true
     },
     {
@@ -334,6 +346,12 @@
       "enable": true
     },
     {
+      "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular-route.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/angular-route@1.7.9/angular-route.min.js",
+      "enable": true
+    },
+    {
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular-route.min.js",
       "kind": "wildcard",
       "dst": "//cdn.jsdelivr.net/npm/angular-route@1.8.0/angular-route.min.js",
@@ -346,51 +364,75 @@
       "enable": true
     },
     {
+      "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular-cookies.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/angular-cookies@1.7.9/angular-cookies.min.js",
+      "enable": true
+    },
+    {
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular-cookies.min.js",
       "kind": "wildcard",
-      "dst": "//cdnjs.cloudflare.com/ajax/libs/angular-cookies/1.8.0/angular-cookies.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/angular-cookies@1.8.0/angular-cookies.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.1/angular-cookies.min.js",
       "kind": "wildcard",
-      "dst": "//cdnjs.cloudflare.com/ajax/libs/angular-cookies/1.8.1/angular-cookies.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/angular-cookies@1.8.1/angular-cookies.min.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular-sanitize.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/angular-sanitize@1.7.9/angular-sanitize.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular-sanitize.min.js",
       "kind": "wildcard",
-      "dst": "//cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.8.0/angular-sanitize.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/angular-sanitize@1.8.0/angular-sanitize.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.1/angular-sanitize.min.js",
       "kind": "wildcard",
-      "dst": "//cdnjs.cloudflare.com/ajax/libs/angular-sanitize/1.8.1/angular-sanitize.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/angular-sanitize@1.8.1/angular-sanitize.min.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular-touch.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/angular-touch@1.7.9/angular-touch.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular-touch.min.js",
       "kind": "wildcard",
-      "dst": "//cdnjs.cloudflare.com/ajax/libs/angular-touch/1.8.0/angular-touch.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/angular-touch@1.8.0/angular-touch.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.1/angular-touch.min.js",
       "kind": "wildcard",
-      "dst": "//cdnjs.cloudflare.com/ajax/libs/angular-touch/1.8.1/angular-touch.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/angular-touch@1.8.1/angular-touch.min.js",
+      "enable": true
+    },
+    {
+      "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular-animate.min.js",
+      "kind": "wildcard",
+      "dst": "//cdn.jsdelivr.net/npm/angular-animate@1.7.9/angular-animate.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.0/angular-animate.min.js",
       "kind": "wildcard",
-      "dst": "//cdnjs.cloudflare.com/ajax/libs/angular-animate/1.8.0/angular-animate.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/angular-animate@1.8.0/angular-animate.min.js",
       "enable": true
     },
     {
       "src": "//ajax.googleapis.com/ajax/libs/angularjs/1.8.1/angular-animate.min.js",
       "kind": "wildcard",
-      "dst": "//cdnjs.cloudflare.com/ajax/libs/angular-animate/1.8.1/angular-animate.min.js",
+      "dst": "//cdn.jsdelivr.net/npm/angular-animate@1.8.1/angular-animate.min.js",
       "enable": true
     },
     {
