@@ -4,6 +4,8 @@
 
 > Static files host for [gooreplacer](https://github.com/jiacai2050/gooreplacer)
 
+Online rules at [jsDelivr](https://cdn.jsdelivr.net/npm/static-files-host/json/gooreplacer.json)
+
 ## Redirect rules
 
 ### Domains
